@@ -1,0 +1,9 @@
+idCurso;nombre;costo;duracion;idInstructor
+1;SQL;100;2;6
+2;Python;80;5;3
+3;R;70;5;2
+4;SPSS Modeler;50;4;1
+5;Machine Learning;200;8;1
+6;Big Data;150;6;5
+7;Tableau;60;2;6
+8;Linux;75;4;
