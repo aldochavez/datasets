@@ -1,4 +1,4 @@
-producto;tramo_negocio;periodo;DTR;cliente;target;tipo
+producto;tramo;mes;grupo;cantidad;promedio;tipo
 Producto A;Tramo 1;202201;Grupo 1;387;0.033591731;Actual
 Producto A;Tramo 1;202201;Grupo 2;912;0.057017544;Actual
 Producto A;Tramo 1;202201;Grupo 3;1061;0.110273327;Actual
